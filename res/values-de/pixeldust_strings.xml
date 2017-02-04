@@ -52,6 +52,10 @@
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
     <string name="supersu_title">SuperSU</string>
 
+    <!-- Magisk Manager header name -->
+    <string name="magisk_title">Magisk Manager</string>
+    <string name="magisk_summary">Module und Systemeinstellungen verwalten</string>
+
     <!-- Main list strings -->
     <string name="pd_category_title">Personalisierung</string>
     <string name="pd_title">Pixel Dust Einstellungen</string>
