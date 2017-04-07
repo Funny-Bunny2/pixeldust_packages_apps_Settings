@@ -39,9 +39,18 @@
     <!-- SuperSU -->
     <string name="supersu_dashboard_summary">Root-Zugriff steuern</string>
 
-    <!-- KernelAdiutor Mod header name -->
-    <string name="performance_settings_title">Leistungseinstellungen</string>
-    <string name="performance_settings_summary">Kernelparameter &amp; Leistung steuern</string>
+    <!-- Vendor version -->
+    <string name="vendor_version">Hersteller Version</string>
+    <string name="vendor_version_default">Unbekannt</string>
+
+   <!-- Phone info shortcut -->
+    <string name="device_info_title">Geräteinformationen</string>
+
+    <!-- Dev Options Enabled by Default -->
+    <string name="show_dev_already_enabled">Nicht nötig da die Entwickleroptionen bereits standardmäßig aktiviert sind.</string>
+
+    <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
+    <string name="supersu_title">SuperSU</string>
 
     <!-- Main list strings -->
     <string name="pd_category_title">Personalisierung</string>
